@@ -1,1 +1,5 @@
-Initial commit
+#my homewok
+ 깃 과제
+#학번/이름
+학번:20231964
+이름:김예영
